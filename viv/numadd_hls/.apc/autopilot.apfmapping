@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<autopilotfilemapping:AutoPilotFileMapping xmlns:autopilotfilemapping="www.autoesl.com/autopilotfilemapping">
+  <source>
+    <originFiles name="numadd.cpp" path="H:\viv\numadd.cpp"/>
+    <originFiles name="numadd.cpp" path="H:\viv\numadd.cpp"/>
+  </source>
+  <testbench>
+    <originFiles name="numadd_tb.cpp" path="H:\viv\numadd_tb.cpp"/>
+    <originFiles name="numadd_tb.cpp" path="H:\viv\numadd_tb.cpp"/>
+  </testbench>
+</autopilotfilemapping:AutoPilotFileMapping>

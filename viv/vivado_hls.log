@@ -1,0 +1,10 @@
+INFO: [HLS 200-10] Running 'C:/Xilinx/Vivado_HLS/2016.2/bin/unwrapped/win64.o/vivado_hls.exe'
+INFO: [HLS 200-10] For user 'ayy17' on host 'eews104a-010' (Windows NT_amd64 version 6.1) on Tue Feb 13 15:14:54 +0000 2018
+INFO: [HLS 200-10] In directory 'H:/viv'
+INFO: [HLS 200-10] Opening project 'H:/viv/numadd_hls'.
+INFO: [HLS 200-10] Opening solution 'H:/viv/numadd_hls/solution1'.
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xc7z020clg400-1'
+make: `csim.exe' is up to date.
+3
+INFO: [SIM 211-1] CSim done with 0 errors.
